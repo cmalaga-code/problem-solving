@@ -11,7 +11,7 @@ const inputData = [
     1. Get two d array as input. -> arr
     2. find all hour glass numbers.
     3. add all hour glass numbers.
-    4. return the sum of the larget hour glass.
+    4. return the sum of the largest hour glass.
 
     The input will always be 6x6.
 */
